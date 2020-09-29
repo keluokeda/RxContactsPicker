@@ -1,0 +1,3 @@
+include ':rxcontactspicker'
+include ':app'
+rootProject.name = "RxContactsPickerDemo"
